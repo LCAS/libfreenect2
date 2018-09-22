@@ -2,8 +2,8 @@
 Changelog for package libfreenect2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.9 (2018-09-22)
+------------------
 * Merge pull request `#1 <https://github.com/LCAS/libfreenect2/issues/1>`_ from LCAS/cuda9.0
   changed dependency to cuda 9.0
 * changed dependency to cuda 9.0
