@@ -2,8 +2,11 @@
 Changelog for package libfreenect2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2019-11-24)
+------------------
+* Merge pull request `#3 <https://github.com/LCAS/libfreenect2/issues/3>`_ from LCAS/new
+  Pulled upstream and made more general for cuda
+* Fixed cuda
 * new cuda
 * Merge branch 'master' of https://github.com/OpenKinect/libfreenect2 into new
 * Update TegraJPEG detection
